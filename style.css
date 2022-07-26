@@ -226,7 +226,7 @@ p {
   color: var(--color-title);
   font-size: 5vw;
   margin-top: 2rem;
-  font-family: cursive,serif;
+  font-family: 'Tangerine', cursive;
 }
 
 /* ************ Menu ************ */
